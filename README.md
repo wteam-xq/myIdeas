@@ -9,6 +9,10 @@
 * 手指K歌
   * [fingerSing.md](https://github.com/wteam-xq/myIdeas/blob/master/fingerSing.md)
 
-  ### 2.LTK
+### 3.LTK
 * 三国杀擂台版
   * [LTK.md](https://github.com/wteam-xq/myIdeas/blob/master/LTK.md)
+
+### 4.blueToothPlatform.md
+* 蓝牙游戏对战平台
+  * [blueTooth_platform.md](https://github.com/wteam-xq/myIdeas/blob/master/blueTooth_platform.md)
