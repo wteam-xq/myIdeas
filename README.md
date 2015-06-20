@@ -16,3 +16,7 @@
 ### 4.blueToothPlatform.md
 * 蓝牙游戏对战平台
   * [blueTooth_platform.md](https://github.com/wteam-xq/myIdeas/blob/master/blueTooth_platform.md)
+
+### 5.loversCanvas.md
+* 情侣表白广告
+  * [blueTooth_platform.md](https://github.com/wteam-xq/myIdeas/blob/master/loversCanvas.md)
