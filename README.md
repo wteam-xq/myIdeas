@@ -20,3 +20,7 @@
 ### 5.loversCanvas.md
 * 情侣表白广告
   * [blueTooth_platform.md](https://github.com/wteam-xq/myIdeas/blob/master/loversCanvas.md)
+
+### 6.webTombstone.md
+* 网上墓碑（公益）
+  * [webTombstone.md](https://github.com/wteam-xq/myIdeas/blob/master/webTombstone.md)
