@@ -24,3 +24,11 @@
 ### 6.webTombstone.md
 * 网上墓碑（公益）
   * [webTombstone.md](https://github.com/wteam-xq/myIdeas/blob/master/webTombstone.md)
+
+### 7.accountAdministrator.md
+* 账号管家（酝酿）
+  * [accountAdministrator.md](https://github.com/wteam-xq/myIdeas/blob/master/accountAdministrator.md)
+
+### 8.GluSnake.md
+* 贪吃蛇炫彩版
+  * [GluSnake.md](https://github.com/wteam-xq/myIdeas/blob/master/GluSnake.md)
